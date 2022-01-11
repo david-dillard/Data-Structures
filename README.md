@@ -1,5 +1,5 @@
-#Data Structures and Algorithms
+# Data Structures and Algorithms
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
